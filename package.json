@@ -15,6 +15,7 @@
     "sass": "^1.53.0",
     "vant": "^3.5.2",
     "vue": "^3.2.37",
+    "vue-baidu-map-3x": "^1.0.40",
     "vue-router": "^4.1.2"
   },
   "devDependencies": {
